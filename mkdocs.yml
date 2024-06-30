@@ -18,7 +18,6 @@ theme:
     - navigation.indexes
 
 plugins:
-  - glightbox
   - blog
     # authors_file: blog/.authors.yml
 
