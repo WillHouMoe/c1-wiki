@@ -10,6 +10,6 @@
 
 在所有页面的右上角都有一个编辑图标，单击该图标。
 
-![content active edit](img/content-active-edit.png)
+![content active edit](https://img-blog.csdnimg.cn/direct/34812a45ca304209b9376848bbbda6e3.png)
 
 如果你从未使用过 GitHub，它会先让你注册，按照流程走就行。
