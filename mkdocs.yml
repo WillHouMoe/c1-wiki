@@ -7,8 +7,9 @@ nav:
   - 首页: index.md
   - 参与编辑: 
     - direction/direction.md
-    - 关于 Markdown: direction/markdown.md
     - 编写规则: direction/rules.md
+    - 关于 Markdown: direction/markdown.md
+    - 负责人和撰稿人: direction/leader.md
   - 博客:
     - blog/index.md
 
