@@ -4,7 +4,9 @@
 
 由于经费不足，我们无法使用云服务器搭建网站，只能使用免费的 GitHub Actions。这意味着更繁琐的编辑流程和更慢的访问速度（因为众所周知的原因）。当然，你可以使用一些 magic 来解决后者，但是后果自负 :upside_down_face:。
 
-## 编辑方式 1: GitHub 直接编辑
+## 编辑方式
+
+### 编辑方式 1: GitHub 直接编辑
 
 1. 在所有页面的右上角都有一个编辑图标 :material-file-edit-outline:，单击该图标。
 
@@ -12,7 +14,7 @@
 
 3. 注册好之后，再次点击编辑图标，跳转到 GitHub。点击 `Fork this repository`。
 
-4. 在线更改内容
+4. 在线更改内容（须遵守 [Markdown](markdown.md) 语法）
 
 5. 单击右上角绿色图标 Commit changes，填写 Commit message（即修改概要），下面的 Extended Description 选填，最下面选择 `Commit directly to the master branch`
 
@@ -29,10 +31,16 @@
 
 2. (以 Create new file 为例) 输入文件名（一定用**英文**，一定加上文件后缀 `.md`！！！），文件内容首行用一级标题打头。
 
-3. 编辑好躯体内容后，点右上角 Commit Changes 即可.
+3. 编辑好内容后（须遵守 [Markdown](markdown.md) 语法），点右上角 Commit Changes 即可.
 
 4. 点击 Create pull request，后续步骤同上 6-7.
 
-## 编辑方式 2: 人工编辑 :unamused:
+### 编辑方式 2: 人工编辑 :unamused:
 
 实在不行的话直接按照格式发文件给我吧......
+
+## 编辑条例及注意事项
+
+**宗旨**：C1 Wiki 旨在记录初中四年的故事，供以后回忆。我们不希望任何违背该宗旨的内容出现在 C1 Wiki 上，包括但不限于对同学或老师的过分调侃、人身攻击等。本条例对编辑进行了规范。
+
+*（未完稿）*
