@@ -5,6 +5,10 @@ repo_name: WillHouMoe/c1-wiki
 
 nav:
   - 首页: index.md
+  - 梗指南:
+    - 鼓掌: meme/applause.md
+    - 难度两颗星: meme/twostars.md
+    - 报警: meme/callthepolice.md
   - 参与编辑: 
     - direction/direction.md
     - 编写规则: direction/rules.md
