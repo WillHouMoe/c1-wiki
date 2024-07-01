@@ -1,10 +1,14 @@
 site_name: C1 Wiki
 
+repo_url: https://github.com/WillHouMoe/c1-wiki
+repo_name: WillHouMoe/c1-wiki
+
 nav:
   - 首页: index.md
   - 参与编辑: 
     - direction/direction.md
     - 关于 Markdown: direction/markdown.md
+    - 编写规则: direction/rules.md
   - 博客:
     - blog/index.md
 
@@ -14,16 +18,21 @@ theme:
     primary: white
   language: zh
   features:
+    - content.action.edit
+    - content.action.view
+    - content.code.annotate
+    - content.code.copy
     - navigation.tabs
     - navigation.indexes
+  icon:
+    repo: fontawesome/brands/git-alt
 
 plugins:
   - blog
-    # authors_file: blog/.authors.yml
+  - search:
+      separator: '[\s\u200b\-_,:!=\[\]()"`/]+|\.(?!\d)|&[lg]t;|(?!\b)(?=[A-Z][a-z])'
 
 markdown_extensions:
-
-  # Python Markdown
   - abbr
   - admonition
   - attr_list
@@ -32,8 +41,6 @@ markdown_extensions:
   - md_in_html
   - toc:
       permalink: true
-
-  # Python Markdown Extensions
   - pymdownx.arithmatex:
       generic: true
   - pymdownx.betterem:
@@ -41,16 +48,35 @@ markdown_extensions:
   - pymdownx.caret
   - pymdownx.details
   - pymdownx.emoji:
-      emoji_index: !!python/name:material.extensions.emoji.twemoji
       emoji_generator: !!python/name:material.extensions.emoji.to_svg
-  - pymdownx.highlight
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
   - pymdownx.inlinehilite
   - pymdownx.keys
+  - pymdownx.magiclink:
+      normalize_issue_symbols: true
+      repo_url_shorthand: true
+      user: squidfunk
+      repo: mkdocs-material
   - pymdownx.mark
   - pymdownx.smartsymbols
-  - pymdownx.superfences
+  - pymdownx.snippets:
+      auto_append:
+        - includes/mkdocs.md
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
   - pymdownx.tabbed:
       alternate_style: true
+      combine_header_slug: true
+      slugify: !!python/object/apply:pymdownx.slugs.slugify
+        kwds:
+          case: lower
   - pymdownx.tasklist:
       custom_checkbox: true
   - pymdownx.tilde
