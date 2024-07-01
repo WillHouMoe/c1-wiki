@@ -6,11 +6,12 @@ repo_name: WillHouMoe/c1-wiki
 nav:
   - 首页: index.md
   - 梗指南:
+    - meme/index.md
     - 鼓掌: meme/applause.md
-    - 难度两颗星: meme/twostars.md
-    - 报警: meme/callthepolice.md
+    - 难度两颗星: meme/two-stars.md
+    - 报警: meme/call-the-police.md
   - 参与编辑: 
-    - direction/direction.md
+    - direction/index.md
     - 编写规则: direction/rules.md
     - 关于 Markdown: direction/markdown.md
     - 负责人和撰稿人: direction/leader.md
