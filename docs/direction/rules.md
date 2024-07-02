@@ -29,7 +29,7 @@
 
 1. 找到对应的文件夹，点击 Add file > Create new file(或者 Upload files 也行，取决于你习惯 online edit 还是 offline)
 
-2. (以 Create new file 为例) 输入文件名（一定用**英文**，一定加上文件后缀 `.md`！！！），文件内容首行用一级标题打头。
+2. (以 Create new file 为例) 输入文件名（一定用英文，一定加上文件后缀 `.md`！！！），文件内容首行用一级标题打头。
 
 3. 编辑好内容后（须遵守 [Markdown](markdown.md) 语法），点右上角 Commit Changes 即可.
 
