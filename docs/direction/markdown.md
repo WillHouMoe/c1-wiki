@@ -9,8 +9,9 @@ C1 Wiki 的所有文件均用 Markdown 编写。这是一种简洁高效的编�
 ## Tutorial
 
 文字教程：参见 [教程](https://markdown.com.cn/cheat-sheet.html#%E6%80%BB%E8%A7%88)。
-视频教程：参见 [教程]()
 
-当然，除了以上教程提到的常规语法外，MkDocs 还额外支持了许多特殊语法。可以参照 [此教程](https://squidfunk.github.io/mkdocs-material/reference/) 学习。
+视频教程：参见 [教程](https://b23.tv/0fYrwPV)
+
+除了以上教程提到的常规语法外，MkDocs 还额外支持了许多特殊语法。可以参照 [此教程](https://squidfunk.github.io/mkdocs-material/reference/) 学习。
 
 当然，由于 C1 Wiki 所有文件都是用 Markdown 写的，你也可以点击页面右上角的 :material-file-eye-outline: 图标查看源码，当做示例参考。
