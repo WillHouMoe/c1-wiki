@@ -11,9 +11,9 @@
 | 呜\~啊\~哦\~鼓掌                           | Completed   | applause        | WillHou |
 | 难度两颗星                              | Completed   | two-stars       | WillHou |
 | 报警                                    | Completed   | call-the-police | WillHou |
-| 对吧？刘老师说的对吧                    |             |                 |         |
-| 一到十八                                |             |                 |         |
-| 交上来                                  |             |                 |         |
+| 对吧？刘老师说的对吧                    | Completed | am-i-right | WillHou |
+| 一到十八                                | Completed | one-to-eighteen | WillHou |
+| 交上来                                  | Completed | hand-it-over | WillHou |
 | 倒计时的心态                            |             |                 |         |
 | 下班                                    |             |                 |         |
 | 抱头痛哭！不要回去！                    |             |                 |         |
