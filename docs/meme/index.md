@@ -80,7 +80,7 @@
 | 两圆一垂                                |             |                 |         |
 | 还有\_\_\_天就要和你们 say bye bye 了！ |             |                 |         |
 | 刘老师没有批评你们的意思啊              |             |                 |         |
-| 常言道：$7+1>8$                         | In Progress |                 | cjs     |
+| 常言道：$7+1>8$                         | Completed | ao-inequality | cjs     |
 | 其实不蓝                                | Completed | in-fact-not-blue | cjs     |
 | 汪老斯                                  | In Progress |                 | cjs     |
 | 两极梢扁，赤道略鼓                      | In Progress |                 | cjs     |
