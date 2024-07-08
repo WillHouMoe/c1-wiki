@@ -126,9 +126,9 @@
 | 喝酸奶                                  |             |                 |         |
 | 不要质疑                                |             |                 |         |
 | 小\_\_\_不算\_\_\_                      |             |                 |         |
-| 奠基法                                  | In Progress |                 | cjs     |
+| 奠基法                                  | Completed   | dian-ji-fa      | cjs     |
 | 32号，出列                              |             |                 |         |
-| 刘总の三个预言                          | In Progress |                 | cjs     |
+| 刘总の三个预言                          | Completed | three-predictions | cjs     |
 | 复杂的人际关系                          |             |                 |         |
 | 疯了是吧                                |             |                 |         |
 | 以书为荣                                |             |                 |         |
