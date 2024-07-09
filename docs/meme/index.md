@@ -15,14 +15,14 @@
 | 一到十八                                | Completed | one-to-eighteen | WillHou |
 | 交上来                                  | Completed | hand-it-over | WillHou |
 | 倒计时的心态                            |             |                 |         |
-| 下班                                    |             |                 |         |
-| 抱头痛哭！不要回去！                    |             |                 |         |
+| 下班                                    | Completed | time-to-go | WillHou |
+| 抱头痛哭！不要回去！                    | Completed | burst-out-crying | WillHou |
 | 我高一的时候啊                          |             |                 |         |
-| 刘\_\_容的\_\_\_\_\_\_\_                |             |                 |         |
-| 夏牧言的\_\_\_\_\_\_\_\_                |             |                 |         |
+| 刘\_\_\_的\_\_\_\_\_\_\_          | Completed | can-not-translate | WillHou |
+| 夏牧言的\_\_\_\_\_\_\_\_                | Completed | gem-of-eldone | WillHou |
 | 还要\_\_\_\_\_\_\_是吗                  |             |                 |         |
-| 孩子们~                                 |             |                 |         |
-| 什么狗屁学校                            |             |                 |         |
+| 孩子们~                                 | Completed | kids | WillHou |
+| 什么狗屁学校                            | Cancelled   |                 |         |
 | 学生骑在老师头上！                      |             |                 |         |
 | 这个学校就是聒(gua)噪                   |             |                 |         |
 | 细节！审题！                            |             |                 |         |
