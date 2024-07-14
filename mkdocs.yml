@@ -28,6 +28,7 @@ nav:
     - direction/index.md
     - 编写规则: direction/rules.md
     - 关于 Markdown: direction/markdown.md
+    - C1 Wiki 解析规范: direction/render.md
     - 负责人和撰稿人: direction/leader.md
   - 博客:
     - blog/index.md
