@@ -22,12 +22,14 @@ nav:
     - 头抬起来！: meme/heads-up.md
     - 敖小凤不等式: meme/ao-inequality.md
     - 其实不蓝: meme/in-fact-not-blue.md
+    - 一个拉 shi 一个递纸: meme/where-do-they-go.md
     - 奠基法: meme/dian-ji-fa.md
     - 刘总の三个预言: meme/three-predictions.md
   - 参与编辑: 
     - direction/index.md
     - 编写规则: direction/rules.md
     - 关于 Markdown: direction/markdown.md
+    - C1 Wiki 解析规范: direction/render.md
     - 负责人和撰稿人: direction/leader.md
   - 博客:
     - blog/index.md

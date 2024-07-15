@@ -50,5 +50,7 @@
 3. 尊重事实，坚决抵制恶意扭曲事实的行为。
 4. 不得发布对他人具有攻击性的内容。建议在编写可能引发歧义的文本前征得当事人的同意或者在页面显眼位置标识出含“本文不带有冒犯意味，请勿随意借本文内容调侃当事人或其他人”意思的句子。
 5. 不得过度讨论政治。
+6. 编撰者须最少具备小学生语文水平，能把话讲清楚明白，讲清楚前因后果，不能扯淡。反面教材：[Pull Request #31 by xmy](https://github.com/WillHouMoe/c1-wiki/pull/31)。
+7. 如果选用 [编辑方式 1](https://willhoumoe.github.io/c1-wiki/direction/rules/#1-github)，编撰者须按照 [Markdown](https://willhoumoe.github.io/c1-wiki/direction/markdown/) 规范以及 [C1 Wiki 解析规范]() 编辑内容。
 
-最后编辑于 2024.07.02
+最后编辑于 2024.07.14
