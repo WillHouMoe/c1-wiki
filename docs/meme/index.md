@@ -59,7 +59,7 @@
 | 所以说，就\_\_\_\_\_\_                  |             |                 |         |
 | 出问题了                                |             |                 |         |
 | 夏牧言！                                |             |                 |         |
-| 夏收言、氨牧言、氨收言                  | In Progress |                 | jcj |
+| 夏收言、氨牧言、氨收言                  | Completed | an-shou-yan | jcj |
 | 头抬起来！有这么困吗？                  | Completed | heads-up | cjs |
 | 我就不点我们xxx同学的名字了啊           |             |                 |         |
 | 追求卓越（尤指夏牧言）                  |             |                 |         |
@@ -68,7 +68,7 @@
 | 打两个                                  | Completed   | lets-go         | cjs     |
 | 出门左转还是右转？                      |  In Progress |                 | cjs     |
 | 脑子被枪打了                            |             |                 |         |
-| 这是魔方吗？                            | In Progress |                 | jcj |
+| 这是魔方吗？                  | Completed   | is-this-a-cube | jcj |
 | 格斗                                    |             |                 |         |
 | 哭一个月                                |             |                 |         |
 | 都是我害了他！                          |             |                 |         |
@@ -89,7 +89,7 @@
 | 生小卷子                                |             |                 |         |
 | 已经没时间了                            |             |                 |         |
 | Thank you, Eldone                      |             |                 |         |
-| 两圆一垂                                | In Progress |                 | jcj |
+| 两圆一垂                                | Completed | a-math-problem | jcj |
 | 还有\_\_\_天就要和你们 say bye bye 了！ |             |                 |         |
 | 刘老师没有批评你们的意思啊              |             |                 |         |
 | 常言道：$7+1>8$                         | Completed | ao-inequality | cjs     |
@@ -118,16 +118,16 @@
 | 你们听到了什么                          |             |                 |         |
 | 你们觉得可以走了是吧                    |             |                 |         |
 | 虚拟语气                                |             |                 |         |
-| 又进化了                        |In Progress  |                 | cjs     |
+| 又进化了                        |Completed  | evolution | cjs     |
 | 身材越来越走样                          | In Progress |                 | cjs     |
 | 段爷爷                                  | In Progress |                 | cjs |
-| 海猴子                                  | In Progress |                 | cjs |
+| 海猴子                                  | Completed   | sea-monkey | cjs |
 | 每年必考                                |             |                 |         |
 | 摩擦力大小和接触面大小有关              |             |                 |         |
 | N 是压强                                |             |                 |         |
 | 比邻星距离地球 8 公里                   |             |                 |         |
 | 忘记了/不知道/欺负朱老师                |             |                 |         |
-| 万晨小熙熙                              | In Progress |                 | cjs |
+| 万晨小熙熙                              | Completed | little-wcx | cjs |
 | 施苏鹏尊师重教                          |             |                 |         |
 | 大坤步                                  |             |                 |         |
 | 分数不是要出来的                        |             |                 |         |
