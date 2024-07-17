@@ -15,7 +15,7 @@
  - C1 Wiki 仅作为纪念，考虑到同学们和老师们的隐私，请勿在网上随意搬运文章内容。
  - 若发现 Wiki 中有任何错误，请指正。若你认为部分内容触犯隐私或损害形象，请联系我们（hcq 或在下表中查询相应内容的撰稿人），我们会立即删除。
 
-下表是 C1 Wiki 计划中的梗指南目录。欢迎补充！可直接点击右侧编辑图标: material-file-edit-outline : 并按照 [这篇文档](https://willhoumoe.github.io/c1-wiki/direction/rules/) 介绍的步骤，为表格增添新内容。
+下表是 C1 Wiki 计划中的梗指南目录。欢迎补充！可直接点击右侧编辑图标 :material-file-edit-outline: 并按照 [这篇文档](https://willhoumoe.github.io/c1-wiki/direction/rules/) 介绍的步骤，为表格增添新内容。
 
 | 梗                                      | 进度        | URL             | 撰稿人  |
 | --------------------------------------- | ----------- | --------------- | ------- |
