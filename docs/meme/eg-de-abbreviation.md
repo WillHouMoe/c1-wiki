@@ -1,4 +1,4 @@
-# EG，DE
+# EG / DE
 
 ## 具体全称及由来
 
@@ -35,6 +35,7 @@ EG 时发生的事情就更多了，例如与刘总玩猫抓老鼠的游戏“�
 ## 延伸
 
 EG, DE 都是为了掩人耳目而创造的代码缩写。类似的还有：
+
 - EG: Enter Gym，去体育馆
 - EL：Enter Elevator，坐电梯
 - KG：Kindergarten Garage，去幼儿园停车场（两位同学的独特爱好）
