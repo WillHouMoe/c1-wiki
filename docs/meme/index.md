@@ -139,7 +139,7 @@
 | 不要质疑                                |             |                 |         |
 | 小\_\_\_不算\_\_\_                      |             |                 |         |
 | 奠基法                                  | Completed   | dian-ji-fa      | cjs     |
-| 32号，出列                              | In Progress |                 | jcj |
+| 32 号，出列                             | Completed | eldone-out | jcj |
 | 刘总の三个预言                          | Completed | three-predictions | cjs     |
 | 复杂的人际关系                          |             |                 |         |
 | 疯了是吧                                |             |                 |         |
