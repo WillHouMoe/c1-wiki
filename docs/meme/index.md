@@ -1,7 +1,7 @@
 # 梗指南
 
 项目负责人：hcq
-参与撰稿人（按拼音首字母排序）：cjs、hcq、szh、xmy
+参与撰稿人（按拼音首字母排序）：cjs、hcq、jcj、szh、xmy
 
 
 梗是初中四年的一个缩影，它们或承载着一个时代，一段往事，抑或是一幅情景，一个人……
@@ -15,7 +15,7 @@
  - C1 Wiki 仅作为纪念，考虑到同学们和老师们的隐私，请勿在网上随意搬运文章内容。
  - 若发现 Wiki 中有任何错误，请指正。若你认为部分内容触犯隐私或损害形象，请联系我们（hcq 或在下表中查询相应内容的撰稿人），我们会立即删除。
 
-下表是 C1 Wiki 计划中的梗指南目录。欢迎补充！可直接点击右侧编辑图标: material-file-edit-outline : 并按照 [这篇文档](https://willhoumoe.github.io/c1-wiki/direction/rules/) 介绍的步骤，为表格增添新内容。
+下表是 C1 Wiki 计划中的梗指南目录。欢迎补充！可直接点击右侧编辑图标 :material-file-edit-outline: 并按照 [这篇文档](https://willhoumoe.github.io/c1-wiki/direction/rules/) 介绍的步骤，为表格增添新内容。
 
 | 梗                                      | 进度        | URL             | 撰稿人  |
 | --------------------------------------- | ----------- | --------------- | ------- |
@@ -59,7 +59,7 @@
 | 所以说，就\_\_\_\_\_\_                  |             |                 |         |
 | 出问题了                                |             |                 |         |
 | 夏牧言！                                |             |                 |         |
-| 夏收言、氨牧言、氨收言                  | In Progress |                 | jcj |
+| 夏收言、氨牧言、氨收言                  | Completed | an-shou-yan | jcj |
 | 头抬起来！有这么困吗？                  | Completed | heads-up | cjs |
 | 我就不点我们xxx同学的名字了啊           |             |                 |         |
 | 追求卓越（尤指夏牧言）                  |             |                 |         |
@@ -68,7 +68,7 @@
 | 打两个                                  | Completed   | lets-go         | cjs     |
 | 出门左转还是右转？                      |  In Progress |                 | cjs     |
 | 脑子被枪打了                            |             |                 |         |
-| 这是魔方吗？                            | In Progress |                 | jcj |
+| 这是魔方吗？                  | Completed   | is-this-a-cube | jcj |
 | 格斗                                    |             |                 |         |
 | 哭一个月                                |             |                 |         |
 | 都是我害了他！                          |             |                 |         |
@@ -89,7 +89,7 @@
 | 生小卷子                                |             |                 |         |
 | 已经没时间了                            |             |                 |         |
 | Thank you, Eldone                      |             |                 |         |
-| 两圆一垂                                | In Progress |                 | jcj |
+| 两圆一垂                                | Completed | a-math-problem | jcj |
 | 还有\_\_\_天就要和你们 say bye bye 了！ |             |                 |         |
 | 刘老师没有批评你们的意思啊              |             |                 |         |
 | 常言道：$7+1>8$                         | Completed | ao-inequality | cjs     |
@@ -118,16 +118,16 @@
 | 你们听到了什么                          |             |                 |         |
 | 你们觉得可以走了是吧                    |             |                 |         |
 | 虚拟语气                                |             |                 |         |
-| 又进化了                        |In Progress  |                 | cjs     |
+| 又进化了                        |Completed  | evolution | cjs     |
 | 身材越来越走样                          | In Progress |                 | cjs     |
 | 段爷爷                                  | In Progress |                 | cjs |
-| 海猴子                                  | In Progress |                 | cjs |
+| 海猴子                                  | Completed   | sea-monkey | cjs |
 | 每年必考                                |             |                 |         |
 | 摩擦力大小和接触面大小有关              |             |                 |         |
 | N 是压强                                |             |                 |         |
 | 比邻星距离地球 8 公里                   |             |                 |         |
 | 忘记了/不知道/欺负朱老师                |             |                 |         |
-| 万晨小熙熙                              | In Progress |                 | cjs |
+| 万晨小熙熙                              | Completed | little-wcx | cjs |
 | 施苏鹏尊师重教                          |             |                 |         |
 | 大坤步                                  |             |                 |         |
 | 分数不是要出来的                        |             |                 |         |
@@ -139,11 +139,20 @@
 | 不要质疑                                |             |                 |         |
 | 小\_\_\_不算\_\_\_                      |             |                 |         |
 | 奠基法                                  | Completed   | dian-ji-fa      | cjs     |
-| 32号，出列                              | In Progress |                 | jcj |
+| 32 号，出列                             | Completed | eldone-out | jcj |
 | 刘总の三个预言                          | Completed | three-predictions | cjs     |
 | 复杂的人际关系                          |             |                 |         |
 | 疯了是吧                                |             |                 |         |
 | 以书为荣                                |             |                 |         |
 | 把头给我低下去                          |             |                 |         |
-| EG / DE | Completed | eg-de-abbreviation | xmy |
+| EG, DE | | | |
+| 鹿王 | | | |
+| 宝藏女孩 | | | |
+| 人多的地方不要去 | | | |
+| 你在浏览 | | | |
+| 都一样/差不多 | | | |
+| USTALAUF | | | |
+| 为考上华二蓄力 | | | |
+| hyd 回归，wxn 的地位受到威胁 | | | |
+| 好朋友的真面目 | | | |
 
