@@ -94,7 +94,7 @@
 | 刘老师没有批评你们的意思啊              |             |                 |         |
 | 常言道：$7+1>8$                         | Completed | ao-inequality | cjs     |
 | 其实不蓝                                | Completed | in-fact-not-blue | cjs     |
-| 汪老斯                                  | In Progress |                 | cjs     |
+| 汪老斯                                  | Completed | teacher-wang     | cjs     |
 | 两极梢扁，赤道略鼓                      | In Progress |                 | szh  |
 | 充分条件                                | In Progress |                 | szh |
 | 逢人就说                                |             |                 |         |
@@ -119,7 +119,7 @@
 | 你们觉得可以走了是吧                    |             |                 |         |
 | 虚拟语气                                |             |                 |         |
 | 又进化了                        |Completed  | evolution | cjs     |
-| 身材越来越走样                          | In Progress |                 | cjs     |
+| 身材越来越走样                          | Completed | out-of-shape       | cjs     |
 | 段爷爷                                  | In Progress |                 | cjs |
 | 海猴子                                  | Completed   | sea-monkey | cjs |
 | 每年必考                                |             |                 |         |
