@@ -28,15 +28,15 @@
 | 倒计时的心态                            |             |                 |         |
 | 下班                                    | Completed | time-to-go | WillHou |
 | 抱头痛哭！不要回去！                    | Completed | burst-out-crying | WillHou |
-| 我高一的时候啊                          |             |                 |         |
+| 我高一的时候啊                          | In Progress |                 | szh |
 | 刘\_\_\_的\_\_\_\_\_\_\_          | Completed | can-not-translate | WillHou |
 | 夏牧言的\_\_\_\_\_\_\_\_                | Completed | gem-of-eldone | WillHou |
 | 还要\_\_\_\_\_\_\_是吗                  |             |                 |         |
 | 孩子们~                                 | Completed | kids | WillHou |
 | 左直右                            | Cancelled   |                 |         |
 | 什么狗屁学校                            | Cancelled   |                 |         |
-| 学生骑在老师头上！                      |             |                 |         |
-| 这个学校就是聒(gua)噪                   |             |                 |         |
+| 学生骑在老师头上！                      | Completed | students-overpower-teachers | WillHou |
+| 这个学校就是聒(gua)噪                   | Completed | such-a-chaotic-school | WillHou |
 | 细节！审题！                            |             |                 |         |
 | 全面稳定高水平                          |             |                 |         |
 | 七百五十分大作战                        |             |                 |         |
@@ -155,4 +155,5 @@
 | 为考上华二蓄力 | | | |
 | hyd 回归，wxn 的地位受到威胁 | | | |
 | 好朋友的真面目 | | | |
+| 复习历史 | | | |
 
