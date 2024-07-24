@@ -31,15 +31,15 @@
 | 我高一的时候啊                          | In Progress |                 | szh |
 | 刘\_\_\_的\_\_\_\_\_\_\_          | Completed | can-not-translate | WillHou |
 | 夏牧言的\_\_\_\_\_\_\_\_                | Completed | gem-of-eldone | WillHou |
-| 还要\_\_\_\_\_\_\_是吗                  |             |                 |         |
+| 还要\_\_\_\_\_\_\_是吗                  | Completed | still-have-something-to-say | WillHou |
 | 孩子们~                                 | Completed | kids | WillHou |
 | 左直右                            | Cancelled   |                 |         |
 | 什么狗屁学校                            | Cancelled   |                 |         |
 | 学生骑在老师头上！                      | Completed | students-overpower-teachers | WillHou |
 | 这个学校就是聒(gua)噪                   | Completed | such-a-chaotic-school | WillHou |
 | 细节！审题！                            |             |                 |         |
-| 全面稳定高水平                          |             |                 |         |
-| 七百五十分大作战                        |             |                 |         |
+| 全面稳定高水平                          | Completed | three-factors | WillHou |
+| 七百五十分大作战                        | Completed | fight-for-750 | WillHou |
 | \_\_\_一下\_\_\_一下                    |             |                 |         |
 | 哎你们\_\_什么\_\_啦                    |             |                 |         |
 | 什么物种                                |             |                 |         |
@@ -50,11 +50,11 @@
 | ball ball you                           |             |                 |         |
 | 一身反骨 | | | |
 | 支配我                                  |             |                 |         |
-| nice to meet you                        |             |                 |         |
+| nice to meet you                        | Completed | nice-to-meet-you | WillHou |
 | 学不动了是吧                            |             |                 |         |
 | 随意下地                                |             |                 |         |
 | 我就说两个字                            |             |                 |         |
-| M 是吧                                  |             |                 |         |
+| M 是吧                                  | Completed | are-you-m | WillHou |
 | 想见科比吗                              |             |                 |         |
 | 所以说，就\_\_\_\_\_\_                  |             |                 |         |
 | 出问题了                                |             |                 |         |
@@ -62,9 +62,9 @@
 | 夏收言、氨牧言、氨收言                  | Completed | an-shou-yan | jcj |
 | 头抬起来！有这么困吗？                  | Completed | heads-up | cjs |
 | 我就不点我们xxx同学的名字了啊           |             |                 |         |
-| 追求卓越（尤指夏牧言）                  |             |                 |         |
+| 追求卓越（尤指夏牧言）                  | Completed | pursue-excellence | WillHou |
 | 我是一个有原则的人！                    |             |                 |         |
-| 死了                                    |             |                 |         |
+| 死了                                    | Completed | he-is-dead | WillHou |
 | 打两个                                  | Completed   | lets-go         | cjs     |
 | 出门左转还是右转？                      |  In Progress |                 | cjs     |
 | 脑子被枪打了                            |             |                 |         |
@@ -83,14 +83,14 @@
 | 产生什么联想                            |             |                 |         |
 | 崛起                                    |             |                 |         |
 | 发癫                                    |             |                 |         |
-| 雕虫小技                                |             |                 |         |
+| 雕虫小技                                | Completed | small-tricks | WillHou |
 | 威猛                                    |           |                 |          |
 | 扭蛋机                                  |             |                 |         |
 | 生小卷子                                |             |                 |         |
 | 已经没时间了                            |             |                 |         |
 | Thank you, Eldone                      |             |                 |         |
 | 两圆一垂                                | Completed | a-math-problem | jcj |
-| 还有\_\_\_天就要和你们 say bye bye 了！ |             |                 |         |
+| 还有\_\_\_天就要和你们 say bye bye 了！ | Completed | say-bye-bye | WillHou |
 | 刘老师没有批评你们的意思啊              |             |                 |         |
 | 常言道：$7+1>8$                         | Completed | ao-inequality | cjs     |
 | 其实不蓝                                | Completed | in-fact-not-blue | cjs     |
@@ -103,7 +103,7 @@
 | 像球一样滚出去                          |             |                 |         |
 | 火星四射                                |             |                 |         |
 | 形变                                    |             |                 |         |
-| 小天才                                  |             |                 |         |
+| 小天才                                  | Completed | genius | WillHou |
 | 到你为止                                |             |                 |         |
 | 狗咬你一口                              |             |                 |         |
 | 这句话不是我说的，是李仁艺说的          |             |                 |         |
