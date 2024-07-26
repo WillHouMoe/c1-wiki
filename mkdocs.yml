@@ -82,7 +82,6 @@ plugins:
   - search:
       separator: '[\s\u200b\-_,:!=\[\]()"`/]+|\.(?!\d)|&[lg]t;|(?!\b)(?=[A-Z][a-z])'
   - glightbox
-  - git-authors
 
 markdown_extensions:
   - abbr
