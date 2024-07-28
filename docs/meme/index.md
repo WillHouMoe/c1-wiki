@@ -40,6 +40,7 @@
 | 细节！审题！                            |             |                 |         |
 | 全面稳定高水平                          | Completed | three-factors | WillHou |
 | 七百五十分大作战                        | Completed | fight-for-750 | WillHou |
+| 不要跑                                 |  In Progress |                 | cjs     |
 | \_\_\_一下\_\_\_一下                    |             |                 |         |
 | 哎你们\_\_什么\_\_啦                    |             |                 |         |
 | 什么物种                                |             |                 |         |
@@ -52,7 +53,7 @@
 | 支配我                                  |             |                 |         |
 | nice to meet you                        | Completed | nice-to-meet-you | WillHou |
 | 学不动了是吧                            |             |                 |         |
-| 随意下地                                |             |                 |         |
+| 随意下地                               | In Progress |                 | cjs |
 | 我就说两个字                            |             |                 |         |
 | M 是吧                                  | Completed | are-you-m | WillHou |
 | 想见科比吗                              |             |                 |         |
@@ -81,10 +82,10 @@
 | 纠结                                    |             |                 |         |
 | 偷卷子                                  |             |                 |         |
 | 产生什么联想                            |             |                 |         |
-| 崛起                                    |             |                 |         |
+| 崛起                                    | In Progress |                 | cjs |
 | 发癫                                    |             |                 |         |
 | 雕虫小技                                | Completed | small-tricks | WillHou |
-| 威猛                                    |           |                 |          |
+| 威猛                                    |  In Progress |                 | cjs     |
 | 扭蛋机                                  |             |                 |         |
 | 生小卷子                                |             |                 |         |
 | 已经没时间了                            |             |                 |         |
@@ -101,11 +102,11 @@
 | 这次考试……又是……非常的……                |             |                 |         |
 | 像小鸡一样拎起来                        |             |                 |         |
 | 像球一样滚出去                          |             |                 |         |
-| 火星四射                                |             |                 |         |
+| 火星四射                                | In Progress |                 | cjs |
 | 形变                                    |             |                 |         |
 | 小天才                                  | Completed | genius | WillHou |
 | 到你为止                                |             |                 |         |
-| 狗咬你一口                              |             |                 |         |
+| 狗咬你一口                             | In Progress |                 | cjs |
 | 这句话不是我说的，是李仁艺说的          |             |                 |         |
 | 姗姗来迟                                |             |                 |         |
 | 一个拉 shi 一个递纸                  | Completed | where-do-they-go |      cjs |
@@ -145,15 +146,18 @@
 | 疯了是吧                                |             |                 |         |
 | 以书为荣                                |             |                 |         |
 | 把头给我低下去                          |             |                 |         |
+| 分老师饭                                 | In Progress |                 | cjs |
 | EG / DE                                | Completed | eg-de-abbreviation |  xmy  |
+| 埃德加斯诺                              | In Progress |                 | cjs |
+| USTALAUF                                | In Progress |                 | cjs / drj|
 | 鹿王 | | | |
 | 宝藏女孩 | | | |
 | 人多的地方不要去 | | | |
-| 你在浏览 | | | |
+| 你在浏览 | In Progress |                 | jcj | 
 | 都一样/差不多 | | | |
-| USTALAUF | | | |
 | 为考上华二蓄力 | | | |
 | hyd 回归，wxn 的地位受到威胁 | | | |
-| 好朋友的真面目 | | | |
-| 复习历史 | | | |
+| 好朋友的真面目|  In Progress |                 | cjs     |
+| 复习历史 |  In Progress |                 | cjs     |
+|董老师要看 |  In Progress |                 | cjs     |
 

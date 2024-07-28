@@ -1,7 +1,13 @@
-# 如果你也想贡献内容
+# 站务手册
 
-感谢参与编辑！
+本文档对 C1 Wiki 的食用进行了规范和说明。
 
-初中四年的生活令人回味无穷。我们希望将独属初中校园的那些乐趣留下来，供以后回味。欢迎所有人贡献所知道的内容！
+如果你是读者，以下文档可能对你有用：
 
-但是，撰写内容的同时，我们希望您遵守 [编写规则](rules.md)
+- 填坑
+
+如果你想参与编辑，以下文档可能对你有用：
+
+- 了解文档开发规则和流程，请参见 [编写规则](https://willhoumoe.github.io/c1-wiki/direction/rules/)
+- 了解文件开发语法和规范，请参见 [Markdown 指南](https://willhoumoe.github.io/c1-wiki/direction/markdown/) 和 [解析规范](https://willhoumoe.github.io/c1-wiki/direction/render/)
+- 了解 C1 Wiki 各板块负责人，请参见 [负责人与撰稿人](https://willhoumoe.github.io/c1-wiki/direction/leader/)

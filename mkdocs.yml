@@ -24,7 +24,7 @@ nav:
     - 全面稳定高水平: meme/three-factors.md
     - 七百五十分大作战: meme/fight-for-750.md
     - Nice to Meet You: meme/nice-to-meet-you.md
-    - M 是啊: meme/are-you-m.md
+    - M 是吧: meme/are-you-m.md
     - 夏收言、氨牧言、氨收言: meme/an-shou-yan.md
     - 头抬起来！: meme/heads-up.md
     - 追求卓越: meme/pursue-excellence.md
@@ -53,7 +53,7 @@ nav:
     - 班干部岗位: archive/cadre.md
     - 座位表: archive/seat.md
     - 课程表: archive/curriculum.md
-  - 参与编辑: 
+  - 站务手册: 
     - direction/index.md
     - 编写规则: direction/rules.md
     - 关于 Markdown: direction/markdown.md
@@ -82,7 +82,6 @@ plugins:
   - search:
       separator: '[\s\u200b\-_,:!=\[\]()"`/]+|\.(?!\d)|&[lg]t;|(?!\b)(?=[A-Z][a-z])'
   - glightbox
-  - git-authors
 
 markdown_extensions:
   - abbr
