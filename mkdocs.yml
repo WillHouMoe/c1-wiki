@@ -23,6 +23,7 @@ nav:
     - 这个学校就是呱噪: meme/such-a-chaotic-school.md
     - 全面稳定高水平: meme/three-factors.md
     - 七百五十分大作战: meme/fight-for-750.md
+    - 不要跑: meme/do-not-run.md
     - Nice to Meet You: meme/nice-to-meet-you.md
     - M 是吧: meme/are-you-m.md
     - 夏收言、氨牧言、氨收言: meme/an-shou-yan.md
@@ -53,7 +54,7 @@ nav:
     - 班干部岗位: archive/cadre.md
     - 座位表: archive/seat.md
     - 课程表: archive/curriculum.md
-  - 站务手册: 
+  - 站务手册:
     - direction/index.md
     - 编写规则: direction/rules.md
     - 关于 Markdown: direction/markdown.md
@@ -62,7 +63,7 @@ nav:
   - 博客:
     - blog/index.md
 
-theme: 
+theme:
   name: material
   palette:
     primary: white
@@ -135,7 +136,7 @@ markdown_extensions:
 extra:
   consent:
     title: Cookie consent
-    description: >- 
+    description: >-
       We use cookies to recognize your repeated visits and preferences, as well
       as to measure the effectiveness of our documentation and whether users
       find what they're searching for. With your consent, you're helping us to

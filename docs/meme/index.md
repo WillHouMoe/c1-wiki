@@ -40,7 +40,7 @@
 | 细节！审题！                            |             |                 |         |
 | 全面稳定高水平                          | Completed | three-factors | WillHou |
 | 七百五十分大作战                        | Completed | fight-for-750 | WillHou |
-| 不要跑                                 |  In Progress |                 | cjs     |
+| 不要跑                                 | Completed | do-not-run        | cjs     |
 | \_\_\_一下\_\_\_一下                    |             |                 |         |
 | 哎你们\_\_什么\_\_啦                    |             |                 |         |
 | 什么物种                                |             |                 |         |
@@ -153,7 +153,7 @@
 | 鹿王 | | | |
 | 宝藏女孩 | | | |
 | 人多的地方不要去 | | | |
-| 你在浏览 | In Progress |                 | jcj | 
+| 你在浏览 | In Progress |                 | jcj |
 | 都一样/差不多 | | | |
 | 为考上华二蓄力 | | | |
 | hyd 回归，wxn 的地位受到威胁 | | | |
