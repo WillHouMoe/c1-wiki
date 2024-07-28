@@ -149,15 +149,15 @@
 | 分老师饭                                 | In Progress |                 | cjs |
 | EG / DE                                | Completed | eg-de-abbreviation |  xmy  |
 | 埃德加斯诺                              | In Progress |                 | cjs |
-| USTALAUF                                | In Progress |                 | cjs / drj|
+| USTALAUF                                | In Progress |                 | cjs / drj |
 | 鹿王 | | | |
 | 宝藏女孩 | | | |
 | 人多的地方不要去 | | | |
-| 你在浏览 | In Progress |                 | jcj | 
+| 你在浏览 | In Progress |                 | jcj |
 | 都一样/差不多 | | | |
 | 为考上华二蓄力 | | | |
 | hyd 回归，wxn 的地位受到威胁 | | | |
 | 好朋友的真面目|  In Progress |                 | cjs     |
 | 复习历史 |  In Progress |                 | cjs     |
-|董老师要看 |  In Progress |                 | cjs     |
+| 董老师要看                               | Completed | teacher-dong-and-nba | cjs     |
 
