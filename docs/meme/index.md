@@ -148,7 +148,7 @@
 | 把头给我低下去                          |             |                 |         |
 | 分老师饭                                 | In Progress |                 | cjs |
 | EG / DE                                | Completed | eg-de-abbreviation |  xmy  |
-| 埃德加斯诺                              | In Progress |                 | cjs |
+| 埃德加斯诺                              | Completed | edgar-snow         | cjs |
 | USTALAUF                                | In Progress |                 | cjs / drj |
 | 鹿王 | | | |
 | 宝藏女孩 | | | |
