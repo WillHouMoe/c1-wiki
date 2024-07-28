@@ -121,7 +121,7 @@
 | 虚拟语气                                |             |                 |         |
 | 又进化了                        |Completed  | evolution | cjs     |
 | 身材越来越走样                          | Completed | out-of-shape       | cjs     |
-| 段爷爷                                  | In Progress |                 | cjs |
+| 段爷爷                                  | Completed   | grandpa-duan     | WillHou |
 | 海猴子                                  | Completed   | sea-monkey | cjs |
 | 每年必考                                |             |                 |         |
 | 摩擦力大小和接触面大小有关              |             |                 |         |
@@ -153,7 +153,7 @@
 | 鹿王 | | | |
 | 宝藏女孩 | | | |
 | 人多的地方不要去 | | | |
-| 你在浏览 | In Progress |                 | jcj | 
+| 你在浏览 | In Progress |                 | jcj |
 | 都一样/差不多 | | | |
 | 为考上华二蓄力 | | | |
 | hyd 回归，wxn 的地位受到威胁 | | | |
