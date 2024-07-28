@@ -121,7 +121,7 @@
 | 虚拟语气                                |             |                 |         |
 | 又进化了                        |Completed  | evolution | cjs     |
 | 身材越来越走样                          | Completed | out-of-shape       | cjs     |
-| 段爷爷                                  | In Progress |                 | cjs |
+| 段爷爷                                  | Completed   | grandpa-duan     | WillHou |
 | 海猴子                                  | Completed   | sea-monkey | cjs |
 | 每年必考                                |             |                 |         |
 | 摩擦力大小和接触面大小有关              |             |                 |         |
