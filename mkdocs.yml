@@ -23,6 +23,7 @@ nav:
     - 这个学校就是呱噪: meme/such-a-chaotic-school.md
     - 全面稳定高水平: meme/three-factors.md
     - 七百五十分大作战: meme/fight-for-750.md
+    - 不要跑: meme/do-not-run.md
     - Nice to Meet You: meme/nice-to-meet-you.md
     - M 是吧: meme/are-you-m.md
     - 夏收言、氨牧言、氨收言: meme/an-shou-yan.md
@@ -75,6 +76,7 @@ theme:
     - content.action.view
     - content.code.annotate
     - content.code.copy
+    - content.tooltips
     - navigation.tabs
     - navigation.indexes
   icon:

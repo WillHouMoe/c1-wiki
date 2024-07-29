@@ -40,7 +40,7 @@
 | 细节！审题！                            |             |                 |         |
 | 全面稳定高水平                          | Completed | three-factors | WillHou |
 | 七百五十分大作战                        | Completed | fight-for-750 | WillHou |
-| 不要跑                                 |  In Progress |                 | cjs     |
+| 不要跑                                 | Completed | do-not-run        | cjs     |
 | \_\_\_一下\_\_\_一下                    |             |                 |         |
 | 哎你们\_\_什么\_\_啦                    |             |                 |         |
 | 什么物种                                |             |                 |         |
