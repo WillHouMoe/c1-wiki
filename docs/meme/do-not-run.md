@@ -21,5 +21,5 @@
 
 这个梗确实除了 EG 找不到其他的应用场景；但是这三个字曾给笔者和同学们带来的印象尤为深刻。
 
-*[DE]: Dangerours Entrance，具体见 [DE/EG](./eg-de-abbreviation)。
-*[EG]: Enter Gym，具体见 [DE/EG](./eg-de-abbreviation)。
+*[DE]: Dangerours Entrance，具体见 eg-de-abbreviation。
+*[EG]: Enter Gym，具体见 eg-de-abbreviation。

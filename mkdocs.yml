@@ -73,6 +73,7 @@ theme:
     - content.action.view
     - content.code.annotate
     - content.code.copy
+    - content.tooltips
     - navigation.tabs
     - navigation.indexes
   icon:
