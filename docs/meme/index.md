@@ -45,12 +45,12 @@
 | 哎你们\_\_什么\_\_啦                    |             |                 |         |
 | 什么物种                                |             |                 |         |
 | 我经常说一句话啊                        |             |                 |         |
-| 有初三学生的基本样子                    |             |                 |         |
-| 发工资                                  |             |                 |         |
-| 基本尊重                                |             |                 |         |
+| 有初三学生的基本样子                    | Duplicated | students-overpower-teachers |         |
+| 发工资                                  | Duplicated | students-overpower-teachers |         |
+| 基本尊重                                | Duplicated | students-overpower-teachers |         |
 | ball ball you                           |             |                 |         |
-| 一身反骨 | | | |
-| 支配我                                  |             |                 |         |
+| 一身反骨 | Duplicated | students-overpower-teachers | |
+| 支配我                                  | Duplicated | students-overpower-teachers |         |
 | nice to meet you                        | Completed | nice-to-meet-you | WillHou |
 | 学不动了是吧                            |             |                 |         |
 | 随意下地                               | In Progress |                 | cjs |
@@ -107,7 +107,7 @@
 | 小天才                                  | Completed | genius | WillHou |
 | 到你为止                                |             |                 |         |
 | 狗咬你一口                             | In Progress |                 | cjs |
-| 这句话不是我说的，是李仁艺说的          |             |                 |         |
+| 这句话不是我说的，是李仁艺说的          | Completed | li-renyi-said-that | WillHou |
 | 姗姗来迟                                |             |                 |         |
 | 一个拉 shi 一个递纸                  | Completed | where-do-they-go |      cjs |
 | 不说无意义的话，不做无意义的事          |             |                 |         |
@@ -160,4 +160,13 @@
 | 好朋友的真面目|  In Progress |                 | cjs     |
 | 复习历史 |  In Progress |                 | cjs     |
 | 董老师要看                               | Completed | teacher-dong-and-nba | cjs     |
+
+查表说明：
+
+| 表头   | 内容说明                                                     |
+| ------ | ------------------------------------------------------------ |
+| 梗     | 即相应梗的概要。可作为索引搜索。                             |
+| 进度   | 包括四种参数：In Progress / Completed / Cancelled / Duplicated</br>- In Progress: 表示该梗尚未完工，还在撰写中；- Completed: 表示该梗已完工；- Cancelled: 表示负责人认为该梗太敏感，不宜放在 C1 Wiki 中；- Duplicated: 表示该梗与其它梗重叠部分太大。 |
+| URL    | 该梗的链接，访问 `https://willhoumoe.github.io/c1-wiki/meme/<url>` 来查看这条梗。 |
+| 撰稿人 | 即这条梗的撰写人，有事儿怪他。                               |
 
