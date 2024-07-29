@@ -42,18 +42,21 @@ nav:
     - f 打头的单词: meme/the-f-word.md
     - 又进化了: meme/evolution.md
     - 身材越来越走样: meme/out-of-shape.md
+    - 段爷爷: meme/grandpa-duan.md
     - 海猴子: meme/sea-monkey.md
     - 万晨小熙熙: meme/little-wcx.md
     - 奠基法: meme/dian-ji-fa.md
     - 32 号，出列！: meme/eldone-out.md
     - 刘总の三个预言: meme/three-predictions.md
     - EG DE 等: meme/eg-de-abbreviation.md
+    - 埃德加斯诺: meme/edgar-snow.md
+    - 董老师要看: meme/teacher-dong-and-nba.md
   - 档案袋:
     - 外号: archive/nickname.md
     - 班干部岗位: archive/cadre.md
     - 座位表: archive/seat.md
     - 课程表: archive/curriculum.md
-  - 站务手册: 
+  - 站务手册:
     - direction/index.md
     - 编写规则: direction/rules.md
     - 关于 Markdown: direction/markdown.md
@@ -62,7 +65,7 @@ nav:
   - 博客:
     - blog/index.md
 
-theme: 
+theme:
   name: material
   palette:
     primary: white
@@ -135,7 +138,7 @@ markdown_extensions:
 extra:
   consent:
     title: Cookie consent
-    description: >- 
+    description: >-
       We use cookies to recognize your repeated visits and preferences, as well
       as to measure the effectiveness of our documentation and whether users
       find what they're searching for. With your consent, you're helping us to
