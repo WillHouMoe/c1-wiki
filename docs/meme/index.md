@@ -121,7 +121,7 @@
 | 虚拟语气                                |             |                 |         |
 | 又进化了                        |Completed  | evolution | cjs     |
 | 身材越来越走样                          | Completed | out-of-shape       | cjs     |
-| 段爷爷                                  | In Progress |                 | cjs |
+| 段爷爷                                  | Completed   | grandpa-duan     | WillHou |
 | 海猴子                                  | Completed   | sea-monkey | cjs |
 | 每年必考                                |             |                 |         |
 | 摩擦力大小和接触面大小有关              |             |                 |         |
@@ -148,8 +148,8 @@
 | 把头给我低下去                          |             |                 |         |
 | 分老师饭                                 | In Progress |                 | cjs |
 | EG / DE                                | Completed | eg-de-abbreviation |  xmy  |
-| 埃德加斯诺                              | In Progress |                 | cjs |
-| USTALAUF                                | In Progress |                 | cjs / drj|
+| 埃德加斯诺                              | Completed | edgar-snow         | cjs |
+| USTALAUF                                | In Progress |                 | cjs / drj |
 | 鹿王 | | | |
 | 宝藏女孩 | | | |
 | 人多的地方不要去 | | | |
@@ -159,5 +159,5 @@
 | hyd 回归，wxn 的地位受到威胁 | | | |
 | 好朋友的真面目|  In Progress |                 | cjs     |
 | 复习历史 |  In Progress |                 | cjs     |
-|董老师要看 |  In Progress |                 | cjs     |
+| 董老师要看                               | Completed | teacher-dong-and-nba | cjs     |
 
