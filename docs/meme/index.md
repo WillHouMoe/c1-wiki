@@ -166,7 +166,7 @@
 | 表头   | 内容说明                                                     |
 | ------ | ------------------------------------------------------------ |
 | 梗     | 即相应梗的概要。可作为索引搜索。                             |
-| 进度   | 包括四种参数：In Progress / Completed / Cancelled / Duplicated</br>- In Progress: 表示该梗尚未完工，还在撰写中；- Completed: 表示该梗已完工；- Cancelled: 表示负责人认为该梗太敏感，不宜放在 C1 Wiki 中；- Duplicated: 表示该梗与其它梗重叠部分太大。 |
+| 进度   | 包括四种参数：In Progress / Completed / Cancelled / Duplicated</br>- In Progress: 表示该梗尚未完工，还在撰写中；</br>- Completed: 表示该梗已完工；</br>- Cancelled: 表示负责人认为该梗太敏感，不宜放在 C1 Wiki 中；</br>- Duplicated: 表示该梗与其它梗重叠部分太大。 |
 | URL    | 该梗的链接，访问 `https://willhoumoe.github.io/c1-wiki/meme/<url>` 来查看这条梗。 |
 | 撰稿人 | 即这条梗的撰写人，有事儿怪他。                               |
 
