@@ -41,23 +41,23 @@
 | 全面稳定高水平                          | Completed | three-factors | WillHou |
 | 七百五十分大作战                        | Completed | fight-for-750 | WillHou |
 | 不要跑                                 | Completed | do-not-run        | cjs     |
-| \_\_\_一下\_\_\_一下                    |             |                 |         |
-| 哎你们\_\_什么\_\_啦                    |             |                 |         |
+| \_\_\_一下\_\_\_一下                    | Completed | do-it | WillHou |
+| 哎你们\_\_什么\_\_啦                    | Completed | what-the-fuss | WillHou |
 | 什么物种                                |             |                 |         |
-| 我经常说一句话啊                        |             |                 |         |
+| 我经常说一句话啊                        | Completed | i-always-say-that | WillHou |
 | 有初三学生的基本样子                    | Duplicated | students-overpower-teachers |         |
 | 发工资                                  | Duplicated | students-overpower-teachers |         |
 | 基本尊重                                | Duplicated | students-overpower-teachers |         |
-| ball ball you                           |             |                 |         |
+| ball ball you                           | Completed | ball-ball-you | WillHou |
 | 一身反骨 | Duplicated | students-overpower-teachers | |
 | 支配我                                  | Duplicated | students-overpower-teachers |         |
 | nice to meet you                        | Completed | nice-to-meet-you | WillHou |
 | 学不动了是吧                            |             |                 |         |
 | 随意下地                               | In Progress |                 | cjs |
-| 我就说两个字                            |             |                 |         |
+| 我就说两个字                            | Completed | just-two-words | WillHou |
 | M 是吧                                  | Completed | are-you-m | WillHou |
 | 想见科比吗                              |             |                 |         |
-| 所以说，就\_\_\_\_\_\_                  |             |                 |         |
+| 所以说，就\_\_\_\_\_\_                  | Completed | that-is-to-say | WillHou |
 | 出问题了                                |             |                 |         |
 | 夏牧言！                                |             |                 |         |
 | 夏收言、氨牧言、氨收言                  | Completed | an-shou-yan | jcj |
@@ -89,7 +89,7 @@
 | 扭蛋机                                  |             |                 |         |
 | 生小卷子                                |             |                 |         |
 | 已经没时间了                            |             |                 |         |
-| Thank you, Eldone                      |             |                 |         |
+| Thank you, Eldone                      | Completed | thank-you-eldone | WillHou |
 | 两圆一垂                                | Completed | a-math-problem | jcj |
 | 还有\_\_\_天就要和你们 say bye bye 了！ | Completed | say-bye-bye | WillHou |
 | 刘老师没有批评你们的意思啊              |             |                 |         |
@@ -118,16 +118,16 @@
 | 牙膏卖给刘妈妈                          |             |                 |         |
 | 你们听到了什么                          |             |                 |         |
 | 你们觉得可以走了是吧                    |             |                 |         |
-| 虚拟语气                                |             |                 |         |
+| 虚拟语气                                | Completed | subjunctive-mood | WillHou |
 | 又进化了                        |Completed  | evolution | cjs     |
 | 身材越来越走样                          | Completed | out-of-shape       | cjs     |
 | 段爷爷                                  | Completed   | grandpa-duan     | WillHou |
 | 海猴子                                  | Completed   | sea-monkey | cjs |
-| 每年必考                                |             |                 |         |
-| 摩擦力大小和接触面大小有关              |             |                 |         |
-| N 是压强                                |             |                 |         |
-| 比邻星距离地球 8 公里                   |             |                 |         |
-| 忘记了/不知道/欺负朱老师                |             |                 |         |
+| 每年必考                                | Completed | tested-annually | WillHou |
+| 摩擦力大小和接触面大小有关              | Completed | ly-three-laws | WillHou |
+| N 是压强                                | Duplicated | ly-three-laws |         |
+| 比邻星距离地球 8 公里                   | Duplicated | ly-three-laws |         |
+| 忘记了/不知道/欺负朱老师                |  |                 |         |
 | 万晨小熙熙                              | Completed | little-wcx | cjs |
 | 施苏鹏尊师重教                          |             |                 |         |
 | 大坤步                                  |             |                 |         |
