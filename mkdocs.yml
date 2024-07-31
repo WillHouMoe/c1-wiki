@@ -3,6 +3,9 @@ site_name: C1 Wiki
 repo_url: https://github.com/WillHouMoe/c1-wiki
 repo_name: WillHouMoe/c1-wiki
 
+# Copyright
+copyright: Copyright &copy; 2024 C1 Wiki Team
+
 nav:
   - 首页: index.md
   - 梗指南:
@@ -157,6 +160,13 @@ extra:
       as to measure the effectiveness of our documentation and whether users
       find what they're searching for. With your consent, you're helping us to
       make our documentation better.
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/WillHouMoe
+      name: WillHou on GitHub
+    - icon: fontawesome/brands/x-twitter
+      link: https://x.com/WillHouMoe
+      name: WillHou on X(Twitter)
 
 extra_javascript:
   - javascripts/katex.js
