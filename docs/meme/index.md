@@ -58,20 +58,20 @@
 | M 是吧                                  | Completed | are-you-m | WillHou |
 | 想见科比吗                              |             |                 |         |
 | 所以说，就\_\_\_\_\_\_                  | Completed | that-is-to-say | WillHou |
-| 出问题了                                |             |                 |         |
-| 夏牧言！                                |             |                 |         |
+| 出问题了                                | Completed | issues-occur | WillHou |
+| 夏牧言！                                | Completed | xmy | WillHou |
 | 夏收言、氨牧言、氨收言                  | Completed | an-shou-yan | jcj |
 | 头抬起来！有这么困吗？                  | Completed | heads-up | cjs |
 | 我就不点我们xxx同学的名字了啊           |             |                 |         |
 | 追求卓越（尤指夏牧言）                  | Completed | pursue-excellence | WillHou |
-| 我是一个有原则的人！                    |             |                 |         |
+| 我是一个有原则的人！                    | Completed | man-of-principle | WillHou |
 | 死了                                    | Completed | he-is-dead | WillHou |
 | 打两个                                  | Completed   | lets-go         | cjs     |
 | 出门左转还是右转？                      |  In Progress |                 | cjs     |
 | 脑子被枪打了                            |             |                 |         |
 | 这是魔方吗？                  | Completed   | is-this-a-cube | jcj |
 | 格斗                                    |             |                 |         |
-| 哭一个月                                |             |                 |         |
+| 哭一个月                                | Completed | cry-for-a-month | WillHou |
 | 都是我害了他！                          |             |                 |         |
 | 做什么做什么？                          |             |                 |         |
 | 还能再搞笑一点吗                        |             |                 |         |
@@ -142,7 +142,7 @@
 | 奠基法                                  | Completed   | dian-ji-fa      | cjs     |
 | 32 号，出列                             | Completed | eldone-out | jcj |
 | 刘总の三个预言                          | Completed | three-predictions | cjs     |
-| 复杂的人际关系                          |             |                 |         |
+| 复杂的人际关系                          | Completed | complex-interpersonal-relations | WillHou |
 | 疯了是吧                                |             |                 |         |
 | 以书为荣                                |             |                 |         |
 | 把头给我低下去                          |             |                 |         |
