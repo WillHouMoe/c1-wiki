@@ -70,7 +70,7 @@
 | 出门左转还是右转？                      |  In Progress |                 | cjs     |
 | 脑子被枪打了                            |             |                 |         |
 | 这是魔方吗？                  | Completed   | is-this-a-cube | jcj |
-| 格斗                                    |             |                 |         |
+| 格斗                                    | Completed | combat | WillHou |
 | 哭一个月                                | Completed | cry-for-a-month | WillHou |
 | 都是我害了他！                          |             |                 |         |
 | 做什么做什么？                          |             |                 |         |
