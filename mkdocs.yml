@@ -35,12 +35,17 @@ nav:
     - 我就说两个字: meme/just-two-words.md
     - M 是吧: meme/are-you-m.md
     - 所以说，就__: meme/that-is-to-say.md
+    - 出问题了: meme/issues-occur.md
+    - 夏牧言！: meme/xmy.md
     - 夏收言、氨牧言、氨收言: meme/an-shou-yan.md
     - 头抬起来！: meme/heads-up.md
     - 追求卓越: meme/pursue-excellence.md
+    - 我是一个有原则的人: meme/man-of-principle.md
     - 死了: meme/he-is-dead.md
     - 打两个: meme/lets-go.md
     - 这是魔方吗: meme/is-this-a-cube.md
+    - 格斗: meme/combat.md
+    - 哭一个月: meme/cry-for-a-month.md
     - 雕虫小技: meme/small-tricks.md
     - Thank you, Eldone: meme/thank-you-eldone.md
     - 两圆一垂: meme/a-math-problem.md
@@ -64,11 +69,16 @@ nav:
     - 奠基法: meme/dian-ji-fa.md
     - 32 号，出列！: meme/eldone-out.md
     - 刘总の三个预言: meme/three-predictions.md
+    - 复杂的人际关系: meme/complex-interpersonal-relations.md
     - EG DE 等: meme/eg-de-abbreviation.md
     - 埃德加斯诺: meme/edgar-snow.md
     - 鹿王: meme/king-deer.md
     - 你在浏览: meme/you-are-browsing.md
     - 董老师要看: meme/teacher-dong-and-nba.md
+  - 八卦简史:
+    - gossip/index.md
+    - 总章: gossip/general-chapter.md
+    - tx 第一: gossip/tx.md
   - 档案袋:
     - 外号: archive/nickname.md
     - 班干部岗位: archive/cadre.md
