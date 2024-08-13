@@ -87,9 +87,11 @@ nav:
     - 毕业典礼: archive/graduation-ceremony.md
   - 站务手册:
     - direction/index.md
+    - 读者常见问题解答: direction/reader-faq.md
     - 编写规则: direction/rules.md
     - 关于 Markdown: direction/markdown.md
     - C1 Wiki 解析规范: direction/render.md
+    - MkDocs 特殊语法: direction/mkdocs-syntax.md
     - 负责人和撰稿人: direction/leader.md
   - 博客:
     - blog/index.md
