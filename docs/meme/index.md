@@ -103,7 +103,7 @@
 | 像小鸡一样拎起来                        |             |                 |         |
 | 像球一样滚出去                          |             |                 |         |
 | 火星四射                                | In Progress |                 | cjs |
-| 形变                                    |             |                 |         |
+| 形变                                    | Completed | deformation | jcj |
 | 小天才                                  | Completed | genius | WillHou |
 | 到你为止                                |             |                 |         |
 | 狗咬你一口                             | In Progress |                 | cjs |
@@ -150,10 +150,10 @@
 | EG / DE                                | Completed | eg-de-abbreviation |  xmy  |
 | 埃德加斯诺                              | Completed | edgar-snow         | cjs |
 | USTALAUF                                | In Progress |                 | cjs / drj |
-| 鹿王 | | | |
+| 鹿王 | Completed | king-deer | jcj |
 | 宝藏女孩 | | | |
 | 人多的地方不要去 | | | |
-| 你在浏览 | In Progress |                 | jcj |
+| 你在浏览 | Completed | you-are-browsing | jcj |
 | 都一样/差不多 | | | |
 | 为考上华二蓄力 | | | |
 | hyd 回归，wxn 的地位受到威胁 | | | |
