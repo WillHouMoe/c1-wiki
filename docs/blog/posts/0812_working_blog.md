@@ -2,7 +2,7 @@
 authors:
   - WillHou
 categories:
-  - other
+  - log
 date:
   created: 2024-08-12
   updated: 2024-08-12

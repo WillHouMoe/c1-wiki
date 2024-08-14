@@ -75,15 +75,15 @@
 | 都是我害了他！                          |             |                 |         |
 | 做什么做什么？                          |             |                 |         |
 | 还能再搞笑一点吗                        |             |                 |         |
-| 第三次世界大战                          |             |                 |         |
-| 炮灰                                    |             |                 |         |
-| 这个\_\_\_我们\_\_\_\_\_不要了          |             |                 |         |
+| 第三次世界大战                          | Completed | world-war-iii | WillHou |
+| 炮灰                                    | Duplicated | world-war-iii |         |
+| 这个\_\_\_我们\_\_\_\_\_不要了          | Completed | we-do-not-need-it | WillHou |
 | 已经结束嘞                              |             |                 |         |
 | 纠结                                    |             |                 |         |
-| 偷卷子                                  |             |                 |         |
+| 偷卷子                                  | Duplicated | xmy |         |
 | 产生什么联想                            |             |                 |         |
 | 崛起                                    | In Progress |                 | cjs |
-| 发癫                                    |             |                 |         |
+| 发癫                                    | Duplicated | we-do-not-need-it |         |
 | 雕虫小技                                | Completed | small-tricks | WillHou |
 | 威猛                                    |  In Progress |                 | cjs     |
 | 扭蛋机                                  |             |                 |         |
@@ -127,7 +127,7 @@
 | 摩擦力大小和接触面大小有关              | Completed | ly-three-laws | WillHou |
 | N 是压强                                | Duplicated | ly-three-laws |         |
 | 比邻星距离地球 8 公里                   | Duplicated | ly-three-laws |         |
-| 忘记了/不知道/欺负朱老师                |  |                 |         |
+| 忘记了/不知道/欺负朱老师                | Duplicated | we-do-not-need-it |         |
 | 万晨小熙熙                              | Completed | little-wcx | cjs |
 | 施苏鹏尊师重教                          |             |                 |         |
 | 大坤步                                  |             |                 |         |

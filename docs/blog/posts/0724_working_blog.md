@@ -2,7 +2,7 @@
 authors:
   - Owencjs
 categories:
-  - other
+  - log
 date:
   created: 2024-07-24
   updated: 2024-07-25
