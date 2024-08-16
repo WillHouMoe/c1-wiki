@@ -98,7 +98,7 @@
 | 汪老斯                                  | Completed | teacher-wang     | cjs     |
 | 两极梢扁，赤道略鼓                      | In Progress |                 | szh  |
 | 充分条件                                | In Progress |                 | szh |
-| 逢人就说                                |             |                 |         |
+| 逢人就说                                | Completed | say-that-to-anyone-come-across | WillHou |
 | 这次考试……又是……非常的……                |             |                 |         |
 | 像小鸡一样拎起来                        |             |                 |         |
 | 像球一样滚出去                          |             |                 |         |
@@ -112,10 +112,10 @@
 | 一个拉 shi 一个递纸                  | Completed | where-do-they-go |      cjs |
 | 不说无意义的话，不做无意义的事          |             |                 |         |
 | 我不听”但是“后面的内容                  |             |                 |         |
-| 清蒸茭白，红烧肉                        |             |                 |         |
+| 清蒸茭白，红烧肉                        | Completed | superb-cuisine | WillHou |
 | 好会\~啊！\~学教授！                      |             |                 |         |
 | f 打头的单词                            | Completed  | the-f-word       | jcj     |
-| 牙膏卖给刘妈妈                          |             |                 |         |
+| 牙膏卖给刘妈妈                          | Completed | sell-toothpaste-to-liu | WillHou |
 | 你们听到了什么                          |             |                 |         |
 | 你们觉得可以走了是吧                    |             |                 |         |
 | 虚拟语气                                | Completed | subjunctive-mood | WillHou |
@@ -160,6 +160,7 @@
 | 好朋友的真面目|  In Progress |                 | cjs     |
 | 复习历史 |  In Progress |                 | cjs     |
 | 董老师要看                               | Completed | teacher-dong-and-nba | cjs     |
+| 好的不学 |  |  |  |
 
 查表说明：
 
