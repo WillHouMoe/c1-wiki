@@ -132,9 +132,9 @@
 | 施苏鹏尊师重教                          |             |                 |         |
 | 大坤步                                  |             |                 |         |
 | 分数不是要出来的                        |             |                 |         |
-| $137.5$ 啄木鸟小姐                      |             |                 |         |
-| $G_\text{砣}$                           |             |                 |         |
-| 校霸                                    |             |                 |         |
+| $137.5$ 啄木鸟小姐                      | Completed | miss-woodpecker | WillHou |
+| $G_\text{砣}$                           | Completed | g-tuo | WillHou |
+| 校霸                                    | Completed | school-bully | WillHou |
 | 睡得着                                  |             |                 |         |
 | 喝酸奶                                  |             |                 |         |
 | 不要质疑                                |             |                 |         |
@@ -151,7 +151,7 @@
 | 埃德加斯诺                              | Completed | edgar-snow         | cjs |
 | USTALAUF                                | In Progress |                 | cjs / drj |
 | 鹿王 | Completed | king-deer | jcj |
-| 宝藏女孩 | | | |
+| 宝藏女孩 | Completed | gorgerous-girl | WillHou |
 | 人多的地方不要去 | | | |
 | 你在浏览 | Completed | you-are-browsing | jcj |
 | 都一样/差不多 | | | |
