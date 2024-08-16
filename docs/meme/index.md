@@ -53,7 +53,7 @@
 | 支配我                                  | Duplicated | students-overpower-teachers |         |
 | nice to meet you                        | Completed | nice-to-meet-you | WillHou |
 | 学不动了是吧                            |             |                 |         |
-| 随意下地                               | In Progress |                 | cjs |
+| 随意下地                               | Completed | leave-seat-presumptuously | cjs |
 | 我就说两个字                            | Completed | just-two-words | WillHou |
 | M 是吧                                  | Completed | are-you-m | WillHou |
 | 想见科比吗                              |             |                 |         |
@@ -67,7 +67,7 @@
 | 我是一个有原则的人！                    | Completed | man-of-principle | WillHou |
 | 死了                                    | Completed | he-is-dead | WillHou |
 | 打两个                                  | Completed   | lets-go         | cjs     |
-| 出门左转还是右转？                      |  In Progress |                 | cjs     |
+| 出门左转还是右转？                      | Completed   | left-or-right | cjs     |
 | 脑子被枪打了                            |             |                 |         |
 | 这是魔方吗？                  | Completed   | is-this-a-cube | jcj |
 | 格斗                                    | Completed | combat | WillHou |
