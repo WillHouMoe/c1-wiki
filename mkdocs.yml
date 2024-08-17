@@ -123,6 +123,9 @@ theme:
     - content.tooltips
     - navigation.tabs
     - navigation.indexes
+    - search.suggest
+    - search.highlight
+    - search.share
   icon:
     repo: fontawesome/brands/git-alt
 
