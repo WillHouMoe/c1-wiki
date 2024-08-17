@@ -113,7 +113,7 @@
 | 不说无意义的话，不做无意义的事          |             |                 |         |
 | 我不听”但是“后面的内容                  |             |                 |         |
 | 清蒸茭白，红烧肉                        | Completed | superb-cuisine | WillHou |
-| 好会\~啊！\~学教授！                      |             |                 |         |
+| 好会\~啊！\~学教授！               | In Progress|good at ~ ,Ah! professor of~!|  xmy |
 | f 打头的单词                            | Completed  | the-f-word       | jcj     |
 | 牙膏卖给刘妈妈                          | Completed | sell-toothpaste-to-liu | WillHou |
 | 你们听到了什么                          |             |                 |         |
