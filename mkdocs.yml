@@ -7,7 +7,9 @@ repo_name: WillHouMoe/c1-wiki
 copyright: Copyright &copy; 2024 C1 Wiki Team
 
 nav:
-  - 首页: index.md
+  - 首页: 
+    - Getting Started: index.md
+    - C1 Wiki 第一稿序言: intro/prologue.md
   - 梗指南:
     - meme/index.md
     - 鼓掌: meme/applause.md
@@ -194,6 +196,9 @@ extra:
     - icon: fontawesome/brands/x-twitter
       link: https://x.com/WillHouMoe
       name: WillHou on X(Twitter)
+  analytics:
+    provider: google
+    property: G-JNHMF82QEB
 
 extra_javascript:
   - javascripts/katex.js
