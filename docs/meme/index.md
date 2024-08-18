@@ -53,7 +53,7 @@
 | 支配我                                  | Duplicated | students-overpower-teachers |         |
 | nice to meet you                        | Completed | nice-to-meet-you | WillHou |
 | 学不动了是吧                            |             |                 |         |
-| 随意下地                               | In Progress |                 | cjs |
+| 随意下地                               | Completed | leave-seat-presumptuously | cjs |
 | 我就说两个字                            | Completed | just-two-words | WillHou |
 | M 是吧                                  | Completed | are-you-m | WillHou |
 | 想见科比吗                              |             |                 |         |
@@ -67,7 +67,7 @@
 | 我是一个有原则的人！                    | Completed | man-of-principle | WillHou |
 | 死了                                    | Completed | he-is-dead | WillHou |
 | 打两个                                  | Completed   | lets-go         | cjs     |
-| 出门左转还是右转？                      |  In Progress |                 | cjs     |
+| 出门左转还是右转？                      | Completed   | left-or-right | cjs     |
 | 脑子被枪打了                            |             |                 |         |
 | 这是魔方吗？                  | Completed   | is-this-a-cube | jcj |
 | 格斗                                    | Completed | combat | WillHou |
@@ -75,15 +75,15 @@
 | 都是我害了他！                          |             |                 |         |
 | 做什么做什么？                          |             |                 |         |
 | 还能再搞笑一点吗                        |             |                 |         |
-| 第三次世界大战                          |             |                 |         |
-| 炮灰                                    |             |                 |         |
-| 这个\_\_\_我们\_\_\_\_\_不要了          |             |                 |         |
+| 第三次世界大战                          | Completed | world-war-iii | WillHou |
+| 炮灰                                    | Duplicated | world-war-iii |         |
+| 这个\_\_\_我们\_\_\_\_\_不要了          | Completed | we-do-not-need-it | WillHou |
 | 已经结束嘞                              |             |                 |         |
 | 纠结                                    |             |                 |         |
-| 偷卷子                                  |             |                 |         |
+| 偷卷子                                  | Duplicated | xmy |         |
 | 产生什么联想                            |             |                 |         |
 | 崛起                                    | In Progress |                 | cjs |
-| 发癫                                    |             |                 |         |
+| 发癫                                    | Duplicated | we-do-not-need-it |         |
 | 雕虫小技                                | Completed | small-tricks | WillHou |
 | 威猛                                    |  In Progress |                 | cjs     |
 | 扭蛋机                                  |             |                 |         |
@@ -98,7 +98,7 @@
 | 汪老斯                                  | Completed | teacher-wang     | cjs     |
 | 两极梢扁，赤道略鼓                      | In Progress |                 | szh  |
 | 充分条件                                | In Progress |                 | szh |
-| 逢人就说                                |             |                 |         |
+| 逢人就说                                | Completed | say-that-to-anyone-come-across | WillHou |
 | 这次考试……又是……非常的……                |             |                 |         |
 | 像小鸡一样拎起来                        |             |                 |         |
 | 像球一样滚出去                          |             |                 |         |
@@ -112,10 +112,10 @@
 | 一个拉 shi 一个递纸                  | Completed | where-do-they-go |      cjs |
 | 不说无意义的话，不做无意义的事          |             |                 |         |
 | 我不听”但是“后面的内容                  |             |                 |         |
-| 清蒸茭白，红烧肉                        |             |                 |         |
+| 清蒸茭白，红烧肉                        | Completed | superb-cuisine | WillHou |
 | 好会\~啊！\~学教授！                      |             |                 |         |
 | f 打头的单词                            | Completed  | the-f-word       | jcj     |
-| 牙膏卖给刘妈妈                          |             |                 |         |
+| 牙膏卖给刘妈妈                          | Completed | sell-toothpaste-to-liu | WillHou |
 | 你们听到了什么                          |             |                 |         |
 | 你们觉得可以走了是吧                    |             |                 |         |
 | 虚拟语气                                | Completed | subjunctive-mood | WillHou |
@@ -127,14 +127,14 @@
 | 摩擦力大小和接触面大小有关              | Completed | ly-three-laws | WillHou |
 | N 是压强                                | Duplicated | ly-three-laws |         |
 | 比邻星距离地球 8 公里                   | Duplicated | ly-three-laws |         |
-| 忘记了/不知道/欺负朱老师                |  |                 |         |
+| 忘记了/不知道/欺负朱老师                | Duplicated | we-do-not-need-it |         |
 | 万晨小熙熙                              | Completed | little-wcx | cjs |
 | 施苏鹏尊师重教                          |             |                 |         |
 | 大坤步                                  |             |                 |         |
 | 分数不是要出来的                        |             |                 |         |
-| $137.5$ 啄木鸟小姐                      |             |                 |         |
-| $G_\text{砣}$                           |             |                 |         |
-| 校霸                                    |             |                 |         |
+| $137.5$ 啄木鸟小姐                      | Completed | miss-woodpecker | WillHou |
+| $G_\text{砣}$                           | Completed | g-tuo | WillHou |
+| 校霸                                    | Completed | school-bully | WillHou |
 | 睡得着                                  |             |                 |         |
 | 喝酸奶                                  |             |                 |         |
 | 不要质疑                                |             |                 |         |
@@ -151,7 +151,7 @@
 | 埃德加斯诺                              | Completed | edgar-snow         | cjs |
 | USTALAUF                                | In Progress |                 | cjs / drj |
 | 鹿王 | Completed | king-deer | jcj |
-| 宝藏女孩 | | | |
+| 宝藏女孩 | Completed | gorgerous-girl | WillHou |
 | 人多的地方不要去 | | | |
 | 你在浏览 | Completed | you-are-browsing | jcj |
 | 都一样/差不多 | | | |
@@ -160,6 +160,7 @@
 | 好朋友的真面目|  In Progress |                 | cjs     |
 | 复习历史 |  In Progress |                 | cjs     |
 | 董老师要看                               | Completed | teacher-dong-and-nba | cjs     |
+| 好的不学 |  |  |  |
 
 查表说明：
 

@@ -2,7 +2,7 @@
 
 ## 来源
 
-![king-deer](./img/king-deer.png){ align=right }
+![king-deer](./img/king-deer.png){ align=right width=400 }
 
 该梗来源于一节生命科学课。课程内容为[生物与生物之间的关系](https://basic.sh.smartedu.cn/airclassroom/airClassroomTaskDetail?resource=1694227487556501504&courseId=1554711046177114003)，老师便放了一段关于雄鹿竞争鹿王地位的视频，最后的一句台词“新一代鹿王诞生”激起了 lyy 同学的创作欲，于是他面带微笑，对着 szh 说道：“新一代鹿王诞生了”。
 

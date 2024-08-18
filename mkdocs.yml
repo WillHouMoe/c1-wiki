@@ -7,7 +7,9 @@ repo_name: WillHouMoe/c1-wiki
 copyright: Copyright &copy; 2024 C1 Wiki Team
 
 nav:
-  - 首页: index.md
+  - 首页: 
+    - Getting Started: index.md
+    - C1 Wiki 第一稿序言: intro/prologue.md
   - 梗指南:
     - meme/index.md
     - 鼓掌: meme/applause.md
@@ -32,6 +34,7 @@ nav:
     - 我经常说一句话啊: meme/i-always-say-that.md
     - Ball Ball You: meme/ball-ball-you.md
     - Nice to Meet You: meme/nice-to-meet-you.md
+    - 随意下地: meme/leave-seat-presumptuously.md
     - 我就说两个字: meme/just-two-words.md
     - M 是吧: meme/are-you-m.md
     - 所以说，就__: meme/that-is-to-say.md
@@ -43,9 +46,12 @@ nav:
     - 我是一个有原则的人: meme/man-of-principle.md
     - 死了: meme/he-is-dead.md
     - 打两个: meme/lets-go.md
+    - 出门左转还是右转: meme/left-or-right.md
     - 这是魔方吗: meme/is-this-a-cube.md
     - 格斗: meme/combat.md
     - 哭一个月: meme/cry-for-a-month.md
+    - 第三次世界大战: meme/world-war-iii.md
+    - 这个__我们__不要了: meme/we-do-not-need-it.md
     - 雕虫小技: meme/small-tricks.md
     - Thank you, Eldone: meme/thank-you-eldone.md
     - 两圆一垂: meme/a-math-problem.md
@@ -53,11 +59,14 @@ nav:
     - 敖小凤不等式: meme/ao-inequality.md
     - 其实不蓝: meme/in-fact-not-blue.md
     - 汪老斯: meme/teacher-wang.md
+    - 逢人就说: meme/say-that-to-anyone-come-across.md
     - 形变: meme/deformation.md
     - 小天才: meme/genius.md
     - 李仁艺说的: meme/li-renyi-said-that.md
     - 一个拉 shi 一个递纸: meme/where-do-they-go.md
+    - 清蒸茭白，红烧肉: meme/superb-cuisine.md
     - f 打头的单词: meme/the-f-word.md
+    - 牙膏卖给刘妈妈: meme/sell-toothpaste-to-liu.md
     - 虚拟语气: meme/subjunctive-mood.md
     - 又进化了: meme/evolution.md
     - 身材越来越走样: meme/out-of-shape.md
@@ -66,6 +75,9 @@ nav:
     - 每年必考: meme/tested-annually.md
     - 摩擦力大小和接触面大小有关: meme/ly-three-laws.md
     - 万晨小熙熙: meme/little-wcx.md
+    - 137.5 啄木鸟小姐: meme/miss-woodpecker.md
+    - G 砣: meme/g-tuo.md
+    - 校霸: meme/school-bully.md
     - 奠基法: meme/dian-ji-fa.md
     - 32 号，出列！: meme/eldone-out.md
     - 刘总の三个预言: meme/three-predictions.md
@@ -73,12 +85,14 @@ nav:
     - EG DE 等: meme/eg-de-abbreviation.md
     - 埃德加斯诺: meme/edgar-snow.md
     - 鹿王: meme/king-deer.md
+    - 宝藏女孩: meme/gorgerous-girl.md
     - 你在浏览: meme/you-are-browsing.md
     - 董老师要看: meme/teacher-dong-and-nba.md
   - 八卦简史:
     - gossip/index.md
     - 总章: gossip/general-chapter.md
     - tx 第一: gossip/tx.md
+    - 预告：dsc 第二: gossip/dsc.md
   - 档案袋:
     - 外号: archive/nickname.md
     - 班干部岗位: archive/cadre.md
@@ -87,9 +101,11 @@ nav:
     - 毕业典礼: archive/graduation-ceremony.md
   - 站务手册:
     - direction/index.md
+    - 读者常见问题解答: direction/reader-faq.md
     - 编写规则: direction/rules.md
     - 关于 Markdown: direction/markdown.md
     - C1 Wiki 解析规范: direction/render.md
+    - MkDocs 特殊语法: direction/mkdocs-syntax.md
     - 负责人和撰稿人: direction/leader.md
   - 博客:
     - blog/index.md
@@ -107,6 +123,9 @@ theme:
     - content.tooltips
     - navigation.tabs
     - navigation.indexes
+    - search.suggest
+    - search.highlight
+    - search.share
   icon:
     repo: fontawesome/brands/git-alt
 
@@ -180,6 +199,9 @@ extra:
     - icon: fontawesome/brands/x-twitter
       link: https://x.com/WillHouMoe
       name: WillHou on X(Twitter)
+  analytics:
+    provider: google
+    property: G-JNHMF82QEB
 
 extra_javascript:
   - javascripts/katex.js
