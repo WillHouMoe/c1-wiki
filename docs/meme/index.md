@@ -102,7 +102,7 @@
 | 这次考试……又是……非常的……                |             |                 |         |
 | 像小鸡一样拎起来                        |             |                 |         |
 | 像球一样滚出去                          |             |                 |         |
-| 火星四射                                | In Progress |                 | cjs |
+| 火星四射                                | Completed |                 | cjs |
 | 形变                                    | Completed | deformation | jcj |
 | 小天才                                  | Completed | genius | WillHou |
 | 到你为止                                |             |                 |         |
@@ -119,8 +119,8 @@
 | 你们听到了什么                          |             |                 |         |
 | 你们觉得可以走了是吧                    |             |                 |         |
 | 虚拟语气                                | Completed | subjunctive-mood | WillHou |
-| 又进化了                        |Completed  | evolution | cjs     |
-| 身材越来越走样                          | Completed | out-of-shape       | cjs     |
+| 又进化了                                |Completed  | evolution | cjs     |
+| 身材越来越走样                           | Completed | out-of-shape       | cjs     |
 | 段爷爷                                  | Completed   | grandpa-duan     | WillHou |
 | 海猴子                                  | Completed   | sea-monkey | cjs |
 | 每年必考                                | Completed | tested-annually | WillHou |
@@ -149,7 +149,7 @@
 | 分老师饭                                 | In Progress |                 | cjs |
 | EG / DE                                | Completed | eg-de-abbreviation |  xmy  |
 | 埃德加斯诺                              | Completed | edgar-snow         | cjs |
-| USTALAUF                                | In Progress |                 | cjs / drj |
+| USTALAUF                                | Completed |  ustalauf            |  drj/ cjs  |
 | 鹿王 | Completed | king-deer | jcj |
 | 宝藏女孩 | Completed | gorgerous-girl | WillHou |
 | 人多的地方不要去 | | | |
@@ -161,13 +161,15 @@
 | 复习历史 |  In Progress |                 | cjs     |
 | 董老师要看                               | Completed | teacher-dong-and-nba | cjs     |
 | 好的不学 |  |  |  |
+| szj:?                                   | In Progress |                 | cjs |
+
 
 查表说明：
 
 | 表头   | 内容说明                                                     |
 | ------ | ------------------------------------------------------------ |
-| 梗     | 即相应梗的概要。可作为索引搜索。                             |
-| 进度   | 包括四种参数：In Progress / Completed / Cancelled / Duplicated</br>- In Progress: 表示该梗尚未完工，还在撰写中；</br>- Completed: 表示该梗已完工；</br>- Cancelled: 表示负责人认为该梗太敏感，不宜放在 C1 Wiki 中；</br>- Duplicated: 表示该梗与其它梗重叠部分太大。 |
+| 梗     | 即相应梗的名称或概要，可作为索引或在目录中搜索。                             |
+| 进度   | 包括四种参数：In Progress / Completed / Cancelled / Duplicated</br>- In Progress: 表示该梗尚未完工，还在撰写中；</br>- Completed: 表示该梗已完工，可在C1Wiki上浏览；</br>- Cancelled: 表示负责人或撰稿人认为该梗太敏感或难以编写，不具体展示在 C1 Wiki 中；</br>- Duplicated: 表示该梗与其它梗重叠部分太大，URL指向和他重叠的完工梗。 |
 | URL    | 该梗的链接，访问 `https://willhoumoe.github.io/c1-wiki/meme/<url>` 来查看这条梗。 |
 | 撰稿人 | 即这条梗的撰写人，有事儿怪他。                               |
 
