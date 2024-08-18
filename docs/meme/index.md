@@ -67,7 +67,7 @@
 | 我是一个有原则的人！                    | Completed | man-of-principle | WillHou |
 | 死了                                    | Completed | he-is-dead | WillHou |
 | 打两个                                  | Completed   | lets-go         | cjs     |
-| 出门左转还是右转？                      | Completed   | left-or-right | cjs     |
+| 出门左转还是右转？                      | Completed   | left-or-right | cjs / xmy |
 | 脑子被枪打了                            |             |                 |         |
 | 这是魔方吗？                  | Completed   | is-this-a-cube | jcj |
 | 格斗                                    | Completed | combat | WillHou |
@@ -87,7 +87,7 @@
 | 雕虫小技                                | Completed | small-tricks | WillHou |
 | 威猛                                    |  In Progress |                 | cjs     |
 | 扭蛋机                                  |             |                 |         |
-| 生小卷子                                |             |                 |         |
+| 生小卷子                                | Completed | give-birth-to-test-papers | jcj |
 | 已经没时间了                            |             |                 |         |
 | Thank you, Eldone                      | Completed | thank-you-eldone | WillHou |
 | 两圆一垂                                | Completed | a-math-problem | jcj |
@@ -102,7 +102,7 @@
 | 这次考试……又是……非常的……                |             |                 |         |
 | 像小鸡一样拎起来                        |             |                 |         |
 | 像球一样滚出去                          |             |                 |         |
-| 火星四射                                | In Progress |                 | cjs |
+| 火星四射                                | Completed | sparks-fly | cjs |
 | 形变                                    | Completed | deformation | jcj |
 | 小天才                                  | Completed | genius | WillHou |
 | 到你为止                                |             |                 |         |
@@ -149,13 +149,13 @@
 | 分老师饭                                 | In Progress |                 | cjs |
 | EG / DE                                | Completed | eg-de-abbreviation |  xmy  |
 | 埃德加斯诺                              | Completed | edgar-snow         | cjs |
-| USTALAUF                                | In Progress |                 | cjs / drj |
+| USTALAUF                                | Completed | ustalauf | drj / cjs |
 | 鹿王 | Completed | king-deer | jcj |
 | 宝藏女孩 | Completed | gorgerous-girl | WillHou |
 | 人多的地方不要去 | | | |
 | 你在浏览 | Completed | you-are-browsing | jcj |
 | 都一样/差不多 | | | |
-| 为考上华二蓄力 | | | |
+| 为考上华二蓄力 | Completed | charge-for-efz | jcj |
 | hyd 回归，wxn 的地位受到威胁 | | | |
 | 好朋友的真面目|  In Progress |                 | cjs     |
 | 复习历史 |  In Progress |                 | cjs     |
@@ -167,7 +167,7 @@
 | 表头   | 内容说明                                                     |
 | ------ | ------------------------------------------------------------ |
 | 梗     | 即相应梗的概要。可作为索引搜索。                             |
-| 进度   | 包括四种参数：In Progress / Completed / Cancelled / Duplicated</br>- In Progress: 表示该梗尚未完工，还在撰写中；</br>- Completed: 表示该梗已完工；</br>- Cancelled: 表示负责人认为该梗太敏感，不宜放在 C1 Wiki 中；</br>- Duplicated: 表示该梗与其它梗重叠部分太大。 |
+| 进度   | 包括四种参数：In Progress / Completed / Cancelled / Duplicated</br>- In Progress: 表示该梗尚未完工，还在撰写中；</br>- Completed: 表示该梗已完工；</br>- Cancelled: 表示负责人或撰稿人认为该梗太敏感或难以编写，不便展示在 C1 Wiki 中；</br>- Duplicated: 表示该梗与其它梗重叠部分太大，URL 指向和它重叠的完工梗。 |
 | URL    | 该梗的链接，访问 `https://willhoumoe.github.io/c1-wiki/meme/<url>` 来查看这条梗。 |
 | 撰稿人 | 即这条梗的撰写人，有事儿怪他。                               |
 
