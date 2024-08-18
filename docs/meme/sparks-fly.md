@@ -1,8 +1,6 @@
 # 火星四射
 
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/3MytWN8L7shNYzGl4tAKRp?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-
-（与正文内容无关联，但孔老师应该喜欢。——hcq 注）
+（火星四射翻译成 sparks-fly，孔老师应该很喜欢这个翻译吧。——hcq 注）
 
 ## 由来
 
