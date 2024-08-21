@@ -96,8 +96,9 @@ nav:
     - gossip/index.md
     - 总章: gossip/general-chapter.md
     - tx 第一: gossip/tx.md
-    - 预告：dsc 第二: gossip/dsc.md
+    - dsc 第二: gossip/dsc.md
     - wzt 第三: gossip/wzt.md
+    - zt & tx 第八: gossip/zt-tx.md
   - 档案袋:
     - 外号: archive/nickname.md
     - 班干部岗位: archive/cadre.md
